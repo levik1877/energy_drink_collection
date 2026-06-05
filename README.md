@@ -1,1 +1,1 @@
-# -energy_drink_collection
+# Energy Drink Collection Accounting System
